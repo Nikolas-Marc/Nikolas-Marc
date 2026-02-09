@@ -8,8 +8,9 @@
 ---
 
 ## 🚀 Sobre mim
-Atualmente estudo programação, sistemas Linux e fundamentos de segurança da informação.
-Tenho foco em aprender na prática, criando projetos e documentando tudo no GitHub.
+Sou estudante de Engenharia da Computação e estou no início da minha jornada em programação e tecnologia.
+Atualmente estudo Python, Linux e fundamentos de Segurança da Informação, com foco em aprender passo a passo
+e evoluir por meio de estudos práticos.
 
 ---
 
